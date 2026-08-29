@@ -30,7 +30,13 @@ This repository contains my QA testing practice and learning work:
 - API Testing Practice
 - Selenium Automation Practice
 
-👉 [View QA Testing Work](https://github.com/yashsaxenaai/qa-testing-portfolio)
+👉 ## 📂 QA Testing Work
+
+This repository contains my QA testing practice and learning work:
+
+- 🧪 [Manual Testing Test Cases](https://github.com/yashsaxenaai/qa-testing-portfolio/blob/main/manual-testing-test-cases.md)
+- 🔗 [API Testing Practice](https://github.com/yashsaxenaai/qa-testing-portfolio/blob/main/api-testing-practice.md)
+- 🤖 [Selenium Automation Practice](https://github.com/yashsaxenaai/qa-testing-portfolio/blob/main/selenium-automation-practice.md)
 
 ## 🌐 My Portfolio Website
 
