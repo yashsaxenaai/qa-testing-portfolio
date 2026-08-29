@@ -2,9 +2,9 @@
 
 ### QA Engineer | Manual Testing | API Testing | Selenium | SQL | JIRA
 
-I am a QA Engineer with hands-on experience in software testing and quality assurance. 
-I have experience in manual testing, API testing, test case execution, regression testing, 
-and defect tracking.
+## Career Goal
+
+I am looking for opportunities in QA Testing and Software Testing where I can apply my testing skills and continue developing my automation and API testing knowledge.
 
 ## 🧪 Testing Skills
 
