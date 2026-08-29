@@ -4,23 +4,29 @@
 
 ## Career Goal
 
-I am looking for opportunities in QA Testing and Software Testing where I can apply my testing skills and continue developing my automation and API testing knowledge.
+I am looking for opportunities in QA and Software Testing where I can apply my testing experience and continue developing my skills in API and Automation Testing.
 
-## 🧪 Testing Skills
+- ## 🧪 Testing Skills
 
-- Manual Testing
+### Manual Testing
 - Functional Testing
 - Regression Testing
 - Smoke & Sanity Testing
 - Test Case Design & Execution
 - Bug Reporting & Tracking
+
+### API & Database Testing
 - API Testing with Postman
 - SQL
-- JIRA
+
+### Automation Testing
 - Selenium WebDriver
 - TestNG
 - Maven
 - Java Basics
+
+### Tools
+- JIRA
 
  ## 📂 QA Testing Work
 
