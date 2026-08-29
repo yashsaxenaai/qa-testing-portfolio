@@ -9,7 +9,7 @@ for valid and invalid user inputs.
 
 ## Test Cases
 
-| Test Case ID | Test Scenario | Test Steps | Expected Result |
+| Test Case ID | Test Scenario | Test Steps | Expected Result | 
 |---|---|---|---|
 | TC_001 | Valid Login | Enter valid username and password and click Login | User should be logged in successfully |
 | TC_002 | Invalid Password | Enter valid username and wrong password | Error message should be displayed |
