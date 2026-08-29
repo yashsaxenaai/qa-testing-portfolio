@@ -22,7 +22,7 @@ and defect tracking.
 - Maven
 - Java Basics
 
-👉 ## 📂 QA Testing Work
+ ## 📂 QA Testing Work
 
 This repository contains my QA testing practice and learning work:
 
@@ -30,7 +30,7 @@ This repository contains my QA testing practice and learning work:
 - 🔗 [API Testing Practice](https://github.com/yashsaxenaai/qa-testing-portfolio/blob/main/api-testing-practice.md)
 - 🤖 [Selenium Automation Practice](https://github.com/yashsaxenaai/qa-testing-portfolio/blob/main/selenium-automation-practice.md)
 
-## 🌐 My Portfolio Website → Connect With Me
+## 🌐 My Portfolio Website
 
 👉 [Visit My QA Portfolio](https://my-awesome-folio-822.lovable.app)
 
