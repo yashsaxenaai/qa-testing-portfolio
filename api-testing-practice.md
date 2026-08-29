@@ -1,23 +1,25 @@
 # API Testing Practice
 
 ## Objective
-To practice basic REST API testing using GET, POST, PUT and DELETE requests.
+
+To practice basic REST API testing using Postman and validate API responses.
 
 ## API Used
+
 JSONPlaceholder – Public REST API for testing and practice.
 
 ## Test Scenarios
 
 | Test Case ID | Method | Test Scenario | Expected Result |
 |---|---|---|---|
-| API_001 | GET | Get a list of users | Response status should be 200 |
+| API_001 | GET | Get list of users | Response status should be 200 |
 | API_002 | GET | Get user by valid ID | User details should be returned |
-| API_003 | GET | Get user with invalid ID | Appropriate response should be returned |
+| API_003 | GET | Get user by invalid ID | Appropriate error response should be returned |
 | API_004 | POST | Create a new user | User should be created successfully |
 | API_005 | PUT | Update existing user | User details should be updated |
-| API_006 | DELETE | Delete an existing user | User should be deleted successfully |
+| API_006 | DELETE | Delete existing user | User should be deleted successfully |
 
-## Validations
+## API Validations
 
 - Verify HTTP status code
 - Verify response body
@@ -32,6 +34,15 @@ JSONPlaceholder – Public REST API for testing and practice.
 - REST API
 - JSON
 
-## Note
+## Testing Concepts
 
-This is a personal API testing practice project created to demonstrate basic API testing concepts.
+- Request methods
+- Status code validation
+- Response validation
+- Positive testing
+- Negative testing
+- Basic API error handling
+
+## Project Type
+
+Personal API testing practice project created to demonstrate basic REST API testing concepts.
